@@ -25,6 +25,7 @@
 #'
 #' @return
 #' @export
+#' @importFrom fields colorbar.plot
 #'
 #' @examples
 plotTriangleMatrix <- function(z1,z2,keep.rect=T,colRamp=NULL,xlab=NULL,ylab=NULL,main=NULL,
